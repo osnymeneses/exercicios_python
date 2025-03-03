@@ -1,6 +1,6 @@
 # Verificar se em duas listas existem elementos em comum.
 
-lista_um = [10.5, True, 2, 'xx']
+lista_um = [10.5, True, 2, 'xxxx']
 lista_dois = ['xxx', False, 2, 10]
 
 elementos_em_comum = False
